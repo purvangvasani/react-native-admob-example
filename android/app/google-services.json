@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "66362984243",
+    "firebase_url": "https://react-native-projects-a07a8.firebaseio.com",
+    "project_id": "react-native-projects-a07a8",
+    "storage_bucket": "react-native-projects-a07a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66362984243:android:298fc0fe419ed1ee",
+        "android_client_info": {
+          "package_name": "com.admobdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66362984243-7cd3qj9c31r3pcbdno2s237p9v7ckvnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SsSchCuuEsPpm29uHx8q_lgjN2L3tw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66362984243-7cd3qj9c31r3pcbdno2s237p9v7ckvnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66362984243:android:1d3e4e942f02163f",
+        "android_client_info": {
+          "package_name": "com.admobexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66362984243-7cd3qj9c31r3pcbdno2s237p9v7ckvnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SsSchCuuEsPpm29uHx8q_lgjN2L3tw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66362984243-7cd3qj9c31r3pcbdno2s237p9v7ckvnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
